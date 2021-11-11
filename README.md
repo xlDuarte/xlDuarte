@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> E aí! Prazer em ver você aqui.</h1>
 
 <p>Bem vindo ao meu GitHub! 👋 </p>
-Me chamo <b>Gabriel Duarte</b>, sou <b>advogado e estudante de programação</b>, especificamente <b>Desenvolvedor Full-Stack Jr</b>.
+Me chamo <b>Gabriel Duarte</b>, sou <b>advogado pós-graduado e estudante de programação</b>, especificamente <b>Desenvolvedor Full-Stack Jr</b>.
 <p>Sou natural de <b>Pindamonhangaba - SP, Brasil</b>. <img src="https://cdn.pixabay.com/photo/2021/03/13/01/27/pixel-art-6090862_960_720.png" width="20"/> </p>
 
 <p><b>Abaixo estão as linguagens que gosto/estudo/pretendo estudar: 🛠</b>
