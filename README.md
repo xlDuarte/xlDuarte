@@ -30,6 +30,6 @@ Me chamo <b>Gabriel Duarte</b>, sou <b>advogado e estudante de programação</b>
 <h3>Se quiser, me encontre nas redes sociais:</h3>
 <p><a href="https://github.com/xlDuarte" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/gabriel-reis-duarte-b48663116/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  
+<p>---------------------------------</p>
 <b>Ou se preferir, bora de gameplay na Steam:</b> <a href="https://steamcommunity.com/id/xlDuarte" target="_blank"><img alt="STEAM" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/120px-Steam_icon_logo.svg.png" width="30" /></a>
 </p>
