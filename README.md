@@ -25,7 +25,7 @@ Me chamo <b>Gabriel Duarte</b>, sou <b>advogado e estudante de programação</b>
 
 <p><img width="200" src="https://i.ibb.co/xXYY6YY/insta1.jpg" /> <img width="200" src="https://i.ibb.co/bBxLfY2/insta3.jpg" /> <img width="200" src="https://i.ibb.co/Qp4V7hg/insta2.png" /> </p>
 
-<p>Acima estão 03 de algumas das últimas fotos postadas por mim no instagram <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>
+<p>Acima estão 03 de algumas das últimas fotos postadas por mim. :)
 
 <h3>Se quiser, me encontre nas redes sociais:</h3>
 <p><a href="https://github.com/xlDuarte" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
