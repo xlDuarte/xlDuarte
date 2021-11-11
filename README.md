@@ -4,7 +4,7 @@
 Me chamo <b>Gabriel Duarte</b>, sou <b>advogado e estudante de programação</b>, especificamente <b>Desenvolvedor Full-Stack Jr</b>.
 <p>Sou natural de <b>Pindamonhangaba - SP, Brasil</b>. <img src="https://cdn.pixabay.com/photo/2021/03/13/01/27/pixel-art-6090862_960_720.png" width="20"/> </p>
 
-<p><b>Abaixo estão as linguagens que gosto/estudo/pretendo estudar:</b>
+<p><b>Abaixo estão as linguagens que gosto/estudo/pretendo estudar: 🛠</b>
   <p>
   <img alt="Python" src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/7b0362cb47512cb.png" width="20" />
   <img alt="Javascript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="20" /> 
