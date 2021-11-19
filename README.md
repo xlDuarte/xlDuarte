@@ -16,19 +16,25 @@ Me chamo <b>Gabriel Duarte</b>, sou <b>advogado pós-graduado e estudante de pro
 <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
 
+------------------------
+
 </ul>
 <h3>Dito isso, bem vindo ao meu instagram! <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/></h3>
 
 <p><img width="200" src="https://i.ibb.co/xXYY6YY/insta1.jpg" /> <img width="200" src="https://i.ibb.co/bBxLfY2/insta3.jpg" /> <img width="200" src="https://i.ibb.co/Qp4V7hg/insta2.png" /> </p>
 
 <p>Acima estão 03 de algumas das últimas fotos postadas por mim. 🔥
- 
+
+------------------------
+
 <h3>Se quiser, me encontre nas redes sociais:</h3>
 <p><a href="https://github.com/xlDuarte" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/gabriel-reis-duarte-b48663116/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<p>|-----------------------------------------------------------------------------------------------------------------------------------------------------|</p>
-<b>Ou se preferir, bora de gameplay na Steam:</b> <a href="https://steamcommunity.com/id/xlDuarte" target="_blank"><img alt="STEAM" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/120px-Steam_icon_logo.svg.png" width="30" /></a>
+ 
+<h3><b>Ou se preferir, bora de gameplay na Steam!</b></h3> <a href="https://steamcommunity.com/id/xlDuarte" target="_blank"><img alt="STEAM" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/120px-Steam_icon_logo.svg.png" width="30" /></a>
 </p>
+
+------------------------
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maremedrano&show_icons=true&locale=en&layout=compact" alt="xlduarte" width="300"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=xlduarte&show_icons=true&locale=en" alt="xlduarte" width="250"/>
