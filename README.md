@@ -1,3 +1,7 @@
+ <div>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/fcc02f479de2b50deeabf0c83173ce7d.gif">
+</div>
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> E aí! Prazer em ver você aqui.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xlduarte&color=blue" alt="Profile views" /> </p>
 <p>Bem vindo ao meu GitHub! 💬 </p>
