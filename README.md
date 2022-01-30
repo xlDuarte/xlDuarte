@@ -34,6 +34,7 @@ Me chamo <b>Gabriel Duarte</b>, sou <b>advogado pós-graduado e estudante de pro
 <h3>Se quiser, me encontre nas redes sociais:</h3>
 <p><a href="https://github.com/xlDuarte" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/gabriel-reis-duarte-b48663116/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://discord.gg/xlDuarte#0918" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Camilla Cleane#4009" height="30" width="40" /></a>
  
 <h3><b>Ou se preferir, bora de gameplay na Steam!</b></h3> <a href="https://steamcommunity.com/id/xlDuarte" target="_blank"><img alt="STEAM" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/120px-Steam_icon_logo.svg.png" width="30" /></a>
 </p>
