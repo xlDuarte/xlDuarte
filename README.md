@@ -41,8 +41,7 @@ Me chamo <b>Gabriel Duarte</b>, sou <b>advogado pós-graduado e estudante de pro
 
 ------------------------
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xlduarte&show_icons=true&locale=en&layout=compact" alt="xlduarte" width="300"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xlduarte&show_icons=true&locale=en&layout=compact" alt="xlduarte" width="300"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=xlduarte&show_icons=true&locale=en" alt="xlduarte" width="300"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xlduarte&" alt="xlduarte" width="300"/>
-</p>
 </div>
