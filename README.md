@@ -5,7 +5,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> E aí! Prazer em ver você aqui.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xlduarte&color=blue" alt="Profile views" /> </p>
 <p>Bem vindo ao meu GitHub! 💬 </p>
-Me chamo <b>Gabriel Duarte</b>, sou <b>advogado pós-graduado</b> e estou no <b>3º semestre de Análise e Desenvolvimento de Sistemas</b>.
+Me chamo <b>Gabriel Duarte</b>, sou <b>advogado pós-graduado</b> e estou no <b>último semestre de Análise e Desenvolvimento de Sistemas</b>.
 <p> Certificado como <b>Desenvolvedor Fullstack Java Jr</b> pela <b>Generation Brasil</b>. </p>
 <p>Sou natural de <b>Pindamonhangaba - SP, Brasil</b>. <img src="https://cdn.pixabay.com/photo/2021/03/13/01/27/pixel-art-6090862_960_720.png" width="20"/> </p>
 <p> Acesse meu portfolio: <a href="https://gaduartedev.vercel.app/" target="_blank"/>gaduartedev</a></p>
